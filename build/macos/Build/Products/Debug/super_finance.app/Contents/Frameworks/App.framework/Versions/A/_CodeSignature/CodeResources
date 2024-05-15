@@ -10,11 +10,11 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		N0Br0pD3NQmIGtAnJXcJbAW4FpU=
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		SCODAuwzAOfYvz2yiJz6j/u2KAI=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,59 @@
 		</data>
 		<key>Resources/flutter_assets/NOTICES.Z</key>
 		<data>
-		VznX3L93pC3rTuRSeuDmzihiakY=
+		Oxc5uegHPkjspeae2lUmWujvUeM=
+		</data>
+		<key>Resources/flutter_assets/assets/expense.png</key>
+		<data>
+		6Hy/q9NsbBKk7KoFSXQqvWwYWKM=
+		</data>
+		<key>Resources/flutter_assets/assets/home_page_vector.png</key>
+		<data>
+		jzduQ3z/2R4EREzU8k3ZNZpF5q8=
+		</data>
+		<key>Resources/flutter_assets/assets/icons/accounting.png</key>
+		<data>
+		XH0Mj6S5X3tun+c3B8M3Z/2kepY=
+		</data>
+		<key>Resources/flutter_assets/assets/icons/appcharges.png</key>
+		<data>
+		oJ0yPZ+w8asvM5D3V4dqAt/sQZk=
+		</data>
+		<key>Resources/flutter_assets/assets/icons/finance.png</key>
+		<data>
+		TwgM4XBgYxQkGXfoiHoHyjdh0lE=
+		</data>
+		<key>Resources/flutter_assets/assets/icons/home_page_vector.png</key>
+		<data>
+		jzduQ3z/2R4EREzU8k3ZNZpF5q8=
+		</data>
+		<key>Resources/flutter_assets/assets/icons/payment_details.png</key>
+		<data>
+		92hE52i2Qo8MX8V3EmqUe3fM1Qg=
+		</data>
+		<key>Resources/flutter_assets/assets/icons/payment_outward.png</key>
+		<data>
+		ab85EpC6mBkZ7lg8RXxsLZmt4F8=
+		</data>
+		<key>Resources/flutter_assets/assets/icons/payment_received.png</key>
+		<data>
+		q7jKjqgucgWcSiN0S+JVnBS8za8=
+		</data>
+		<key>Resources/flutter_assets/assets/icons/payments.png</key>
+		<data>
+		j0ZmTkB8e8IO2ECJUsOfIDkjJo0=
+		</data>
+		<key>Resources/flutter_assets/assets/icons/send_payments.png</key>
+		<data>
+		NPkC9vy51q3vgwD4kHKN4a7GnzU=
+		</data>
+		<key>Resources/flutter_assets/assets/report.png</key>
+		<data>
+		qM+xJZZhHeD6fGmqw65O5YyjKDk=
+		</data>
+		<key>Resources/flutter_assets/assets/sales.png</key>
+		<data>
+		Z//0kSQJJ+fua96Dp6Zgs+Zmu1s=
 		</data>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -34,7 +86,7 @@
 		</data>
 		<key>Resources/flutter_assets/kernel_blob.bin</key>
 		<data>
-		1p/Ig4hQ+dGpMXSRkJNrjW3ZJTY=
+		xC1Is8DNWIu+oJY8UXAkW/Jj29w=
 		</data>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -62,14 +114,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			H/kn5aRfDzYpkbO0rt04E2968ZyFvvCWWmMAj+/tdcM=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			j+K8R5ZdiuQcWIyT/L/MM6QEerj74PE0MrTYA96gTjE=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
@@ -83,7 +135,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eus3p+jbEZdoCovP11hDY7hDqvx4xNOHF+zkjp1BRhY=
+			lDwNsmfoNV17w0VLcHCvv6KpC7s4cpXodb8BVSG862w=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/expense.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X38+346Mh4id4GSsyPoR4yKYBKMMoXkiseF/n6LOzm0=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/home_page_vector.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			th5HHnDfA6PPMafce9wC/hPvFrLG3pkTVscM2fcgVyg=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/icons/accounting.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HNH7IJNW5CTz4aZUu8bCcsRw37uXWhbZfOlQ397QrQM=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/icons/appcharges.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VY7XQIpw0u6lZrzVXBpJ4xicEudTsdtCfa5EMFMWZYA=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/icons/finance.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3pnaxViw6XgbX2nVqsgqeRC+3f8cgdMOt5ERzLqK3Y4=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/icons/home_page_vector.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			th5HHnDfA6PPMafce9wC/hPvFrLG3pkTVscM2fcgVyg=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/icons/payment_details.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/z6ZNOHJcTw7nbWSlxhIu+ZaUyHhJaNkAUGsxz+AykE=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/icons/payment_outward.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P+OoAV8nkkFyAMSRclsqzbpZYFgIXU4w5p3u7EedL24=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/icons/payment_received.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ueZO+WgF8ENqEQWQAmS3rRpjD5pGubaH1KXExmrGlFA=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/icons/payments.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4519Yi7pms8a1NTegW0gdcEeYbOQahrjCORdv7vr6eY=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/icons/send_payments.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LNLmz7jnmth8lgvHOPxUJaKGf5dwqh6+eJ04srXSt4Q=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/report.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			60SJcoMmxy8x8z+eCzPJrWL1wePlztP0Yx7aIQWZ/k4=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/sales.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5rRwbHXPUAIb+nqc46aUXHnnLwbQt95OcSmfXQA7rTE=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -104,7 +247,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yfyF1AxPZYjXZdIckjM2hnxcyZMWuiAGxyJU2tOzlt8=
+			mBoh9wx+1Udc4QlbFyWWovCGP5RzcR0s6JDSXJBirD0=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
