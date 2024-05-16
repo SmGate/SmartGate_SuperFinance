@@ -14,4 +14,15 @@ class AppImages {
   static const String expense = "assets/expense.png";
   static const String sales = "assets/sales.png";
   static const String report = "assets/report.png";
+
+  static const String revenue = "assets/revenu.png";
+  static const String expanse = "assets/expeense.png";
+  static const String profittandloss = "assets/profiitloss.png";
+
+  static const String individualBill = "assets/bill.png";
+  static const String monthlyBill = "assets/month.png";
+  static const String homePageBillVector = "assets/home_page_bill_vector.png";
+  static const String calender = "assets/calender.png";
+
+  static const String house = "assets/houses.svg";
 }

@@ -20,6 +20,7 @@ class SentPaymentDetails extends StatelessWidget {
             height: 20,
           ),
           Container(
+            margin: const EdgeInsets.only(left: 20, right: 20),
             color: Colors.grey[100],
             child: Padding(
               padding: const EdgeInsets.all(8.0),
@@ -58,6 +59,7 @@ class SentPaymentDetails extends StatelessWidget {
           Expanded(
             //      height: 600,
             child: ListView.builder(
+                padding: const EdgeInsets.only(left: 20, right: 20),
                 itemCount: 20,
                 shrinkWrap: false,
                 itemBuilder: (context, index) {

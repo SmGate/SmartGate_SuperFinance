@@ -11,7 +11,7 @@ class Payments extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var allPaymentController = Get.find<AllPaymentsController>();
+    var allPaymentController = Get.put(AllPaymentsController());
     return Scaffold(
         appBar: MyAppBar(
           title: "Payments",

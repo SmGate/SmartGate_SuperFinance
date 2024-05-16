@@ -17,7 +17,10 @@ Widget myElevatedButton({
         foregroundColor: textColor,
         backgroundColor: backgroundColor,
       ),
-      child: Text(text),
+      child: Text(
+        text,
+        style: TextStyle(color: textColor, fontWeight: FontWeight.w600),
+      ),
     ),
   );
 }

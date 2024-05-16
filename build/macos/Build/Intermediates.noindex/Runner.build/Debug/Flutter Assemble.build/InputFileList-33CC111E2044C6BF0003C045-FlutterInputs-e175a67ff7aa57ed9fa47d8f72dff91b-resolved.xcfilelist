@@ -57,15 +57,15 @@
 /Users/tms/.pub-cache/hosted/pub.dev/ffi-2.1.0/lib/src/utf16.dart
 /Users/tms/.pub-cache/hosted/pub.dev/ffi-2.1.0/lib/src/utf8.dart
 /Users/tms/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3/LICENSE
-/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.0/LICENSE
-/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.0/lib/flutter_screenutil.dart
-/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.0/lib/src/_flutter_widgets.dart
-/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.0/lib/src/r_padding.dart
-/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.0/lib/src/r_sizedbox.dart
-/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.0/lib/src/screen_util.dart
-/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.0/lib/src/screenutil_init.dart
-/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.0/lib/src/screenutil_mixin.dart
-/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.0/lib/src/size_extension.dart
+/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.1/LICENSE
+/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.1/lib/flutter_screenutil.dart
+/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.1/lib/src/_flutter_widgets.dart
+/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.1/lib/src/r_padding.dart
+/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.1/lib/src/r_sizedbox.dart
+/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.1/lib/src/screen_util.dart
+/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.1/lib/src/screenutil_init.dart
+/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.1/lib/src/screenutil_mixin.dart
+/Users/tms/.pub-cache/hosted/pub.dev/flutter_screenutil-5.9.1/lib/src/size_extension.dart
 /Users/tms/.pub-cache/hosted/pub.dev/get-4.6.6/LICENSE
 /Users/tms/.pub-cache/hosted/pub.dev/get-4.6.6/lib/get.dart
 /Users/tms/.pub-cache/hosted/pub.dev/get-4.6.6/lib/get_common/get_reset.dart
@@ -1265,9 +1265,12 @@
 /Users/tms/Developer/flutter/packages/flutter_tools/lib/src/build_system/targets/icon_tree_shaker.dart
 /Users/tms/Developer/flutter/packages/flutter_tools/lib/src/build_system/targets/macos.dart
 /Users/tms/Developer/flutter/packages/flutter_tools/lib/src/build_system/targets/native_assets.dart
-/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/DOES_NOT_EXIST_RERUN_FOR_WILDCARD655238520
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/DOES_NOT_EXIST_RERUN_FOR_WILDCARD512428535
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/.DS_Store
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/bill.png
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/expeense.png
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/expense.png
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/home_page_bill_vector.png
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/home_page_vector.png
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/icons/accounting.png
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/icons/appcharges.png
@@ -1278,15 +1281,17 @@
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/icons/payment_received.png
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/icons/payments.png
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/icons/send_payments.png
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/month.png
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/profiitloss.png
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/report.png
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/revenu.png
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/assets/sales.png
-/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/binding/app_bindings.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/main.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/utils/images.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/utils/styles/colors.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/utils/styles/text_styles.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/utils/validators.dart
-/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/accounting_dashboard/component/bill_heading.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/accounting_dashboard/component/bill_detail_heading.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/accounting_dashboard/component/expanse/expanse_details_data.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/accounting_dashboard/component/expanse/expanse_report_table_data.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/accounting_dashboard/component/revenue/revenue_details_data.dart
@@ -1305,6 +1310,13 @@
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/accounting_dashboard/views/reports/revenue_reports.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/accounting_dashboard/views/revenue_sales/revenus_sales.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/homepage/homepage_page.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/individual_bill/component/individual_bill_data_table.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/individual_bill/component/resident_data_table.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/individual_bill/solo_bills/controller/individual_bill_controller.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/individual_bill/solo_bills/view/all_residents.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/individual_bill/solo_bills/view/generate_solo_bill.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/individual_bill/solo_bills/view/individual_bill_details.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/individual_bill/solo_bills/view/individual_bill_menu_page.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/payments_outward/component/sent_payment_details_data.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/payments_outward/controller/payment_outward_controller.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/payments_outward/views/payments_outward_dashboard.dart
@@ -1314,6 +1326,9 @@
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/smartgate_payments/components/table_header.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/smartgate_payments/controller/all_payment_controller.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/smartgate_payments/payments_dashboard.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/society_finace/components/all_societise_data.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/society_finace/views/all_societiese.dart
+/Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/views/screens/society_finace/views/finance_dashboard.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/widgets/custom_button.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/widgets/menu_widget.dart
 /Users/tms/Documents/smart_gate_projects/GITHUB 2K24/SmartGate_SuperFinance/lib/widgets/my_appbar.dart

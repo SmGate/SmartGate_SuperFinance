@@ -106,7 +106,6 @@ class ExpanseReport extends StatelessWidget {
                                 'October',
                                 'November',
                                 'December',
-                                'Whole Year'
                               ].map<DropdownMenuItem<String>>((String value) {
                                 return DropdownMenuItem<String>(
                                   value: value,
@@ -115,43 +114,40 @@ class ExpanseReport extends StatelessWidget {
                               }).toList(),
                             )),
                           )),
-                      reportsController.selectedMonth.value == "Whole Year"
-                          ? Container(
-                              //  margin: const EdgeInsets.only(top: 40),
-                              color: Colors.white,
-                              child: Card(
-                                surfaceTintColor: Colors.white,
-                                color: Colors.white,
-                                elevation: 10,
-                                child: DropdownButtonHideUnderline(
-                                    child: DropdownButton<String>(
-                                  padding: const EdgeInsets.only(
-                                      left: 20, right: 20),
-                                  value: reportsController.selectedYear.value,
-                                  onChanged: (String? newValue) {
-                                    reportsController.selectedYear.value =
-                                        newValue ?? "";
-                                  },
-                                  items: <String>[
-                                    'Select Year',
-                                    '2023',
-                                    '2024',
-                                    '2025',
-                                    '2026',
-                                    '2027',
-                                    '2028',
-                                    '2029',
-                                    '2030',
-                                  ].map<DropdownMenuItem<String>>(
-                                      (String value) {
-                                    return DropdownMenuItem<String>(
-                                      value: value,
-                                      child: Text(value),
-                                    );
-                                  }).toList(),
-                                )),
-                              ))
-                          : const SizedBox(),
+                      Container(
+                          //  margin: const EdgeInsets.only(top: 40),
+                          color: Colors.white,
+                          child: Card(
+                            surfaceTintColor: Colors.white,
+                            color: Colors.white,
+                            elevation: 10,
+                            child: DropdownButtonHideUnderline(
+                                child: DropdownButton<String>(
+                              padding:
+                                  const EdgeInsets.only(left: 20, right: 20),
+                              value: reportsController.selectedYear.value,
+                              onChanged: (String? newValue) {
+                                reportsController.selectedYear.value =
+                                    newValue ?? "";
+                              },
+                              items: <String>[
+                                'Select Year',
+                                '2023',
+                                '2024',
+                                '2025',
+                                '2026',
+                                '2027',
+                                '2028',
+                                '2029',
+                                '2030',
+                              ].map<DropdownMenuItem<String>>((String value) {
+                                return DropdownMenuItem<String>(
+                                  value: value,
+                                  child: Text(value),
+                                );
+                              }).toList(),
+                            )),
+                          )),
                       const SizedBox(
                         width: 40,
                       ),

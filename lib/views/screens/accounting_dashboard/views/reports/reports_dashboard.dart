@@ -3,6 +3,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hexcolor/hexcolor.dart';
+import 'package:super_finance/utils/images.dart';
 import '../../../../../widgets/my_appbar.dart';
 import 'expense_report.dart';
 import 'proffit_loss_report.dart';
@@ -40,7 +41,7 @@ class ReportsDashboard extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Image.asset(
-                                "assets/revenu.png",
+                                AppImages.revenue,
                                 height: 100,
                                 width: 100,
                               ),
@@ -76,7 +77,7 @@ class ReportsDashboard extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Image.asset(
-                                "assets/expeense.png",
+                                AppImages.expanse,
                                 height: 100,
                                 width: 100,
                               ),
@@ -116,7 +117,7 @@ class ReportsDashboard extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Image.asset(
-                                "assets/profiitloss.png",
+                                AppImages.profittandloss,
                                 height: 100,
                                 width: 100,
                               ),

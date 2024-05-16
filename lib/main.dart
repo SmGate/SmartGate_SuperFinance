@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/route_manager.dart';
-
-import 'binding/app_bindings.dart';
 import 'views/screens/homepage/homepage_page.dart';
 
 void main() {
@@ -20,7 +18,6 @@ class MyApp extends StatelessWidget {
       designSize: const Size(1440, 1024),
       builder: (context, child) {
         return GetMaterialApp(
-          initialBinding: AppBinding(),
           title: 'Flutter Demo',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(

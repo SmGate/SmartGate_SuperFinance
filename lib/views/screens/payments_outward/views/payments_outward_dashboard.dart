@@ -15,7 +15,7 @@ class PaymentsOutwardDashboard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var paymentoutwardController = Get.find<PaymentoutwardController>();
+    var paymentoutwardController = Get.put(PaymentoutwardController());
     return Scaffold(
       appBar: MyAppBar(
         title: "Payments Outward ",

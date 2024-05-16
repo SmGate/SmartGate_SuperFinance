@@ -7,6 +7,7 @@ import '../../../widgets/menu_widget.dart';
 import '../../../widgets/my_appbar.dart';
 import '../accounting_dashboard/views/accounting_dashboard.dart';
 import '../smartgate_payments/payments_dashboard.dart';
+import '../society_finace/views/all_societiese.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -27,8 +28,14 @@ class HomePage extends StatelessWidget {
                 padding: const EdgeInsets.only(top: 50, left: 50),
                 child: Row(
                   children: [
-                    menuWidget(
-                        AppImages.societryFinanceDate, "Society Finace", () {}),
+                    menuWidget(AppImages.societryFinanceDate, "Society Finace",
+                        () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => const AllSocietise()),
+                      );
+                    }),
                     const SizedBox(
                       width: 40,
                     ),
