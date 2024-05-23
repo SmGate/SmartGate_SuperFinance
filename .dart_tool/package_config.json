@@ -224,6 +224,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "screen_retriever",
+      "rootUri": "file:///Users/tms/.pub-cache/hosted/pub.dev/screen_retriever-0.1.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/tms/Developer/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -308,6 +314,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "window_manager",
+      "rootUri": "file:///Users/tms/.pub-cache/hosted/pub.dev/window_manager-0.2.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "xdg_directories",
       "rootUri": "file:///Users/tms/.pub-cache/hosted/pub.dev/xdg_directories-1.0.4",
       "packageUri": "lib/",
@@ -326,7 +338,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-05-16T06:48:36.124154Z",
+  "generated": "2024-05-23T05:51:24.199770Z",
   "generator": "pub",
   "generatorVersion": "3.2.6"
 }
